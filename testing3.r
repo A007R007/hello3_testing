@@ -8,7 +8,3 @@ version = "RStudio - In writing"
 
 print (name)
 print ("These lines has been written in RStudio")
-
-
-name = "ali abbas"
-version = "RStudio - In writing"
